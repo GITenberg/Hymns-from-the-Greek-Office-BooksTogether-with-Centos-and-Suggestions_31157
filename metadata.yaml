@@ -1,0 +1,29 @@
+_repo: Hymns-from-the-Greek-Office-BooksTogether-with-Centos-and-Suggestions_31157
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brownlie, John
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '32958'
+    url: http://www.gutenberg.org/2009/agents/32958
+description: ''
+gutenberg_issued: '2010-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orthodox Eastern Church -- Hymns'
+- !lcsh 'Hymns, Greek -- Translations into English'
+- !lcc 'BV'
+title: 'Hymns from the Greek Office Books
+
+  Together with Centos and Suggestions'
+url: http://www.gutenberg.org/ebooks/31157
